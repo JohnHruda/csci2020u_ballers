@@ -1,8 +1,7 @@
-package lab02;
-
-public class Demo {
+package csci2020u.lab02;
+public class SimpleTest {
 	public static void main(String[] args) {
 
-	system.out.println("Hello!");
+	System.out.println("Hello!");
 	}	
 }
